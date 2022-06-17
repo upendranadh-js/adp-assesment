@@ -1,0 +1,22 @@
+{
+  "name": "adp-assesment",
+  "version": "1.0.0",
+  "description": "assesment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/upendranadh-js/adp-assesment.git"
+  },
+  "author": "upendranadh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/upendranadh-js/adp-assesment/issues"
+  },
+  "homepage": "https://github.com/upendranadh-js/adp-assesment#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
